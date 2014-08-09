@@ -55,7 +55,9 @@ span.cm-bracket		{ color: #3b97be; }
 	color: #555;
 }
 
-.CodeMirror-selected {}
+.CodeMirror-selected {
+    background: #004653; 
+}
 
 /* Active Line */
 
