@@ -1,0 +1,20 @@
+{
+    "title": "Care Bear Stare Dark",
+    "name": "care-bear-stare-dark",
+    "description": "Care Bear Stare Dark Theme for Brackets. For kids that aren't afraid to code in the dark; ages 10–170. A Brackets original.",
+    "version": "1.0.0",
+    "author": "larz0 (https://github.com/larz0)",
+    "homepage": "https://github.com/Brackets-Themes/CareBearStareDark",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/CareBearStareDark.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "carebearstaredark.css",
+        "dark": true
+    }
+}
